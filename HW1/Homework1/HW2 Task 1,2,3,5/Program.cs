@@ -60,6 +60,8 @@ namespace HW2_Task_1_2_3_5
                 case 12:
                     MonthTitle = "Декабрь";
                     break;
+
+                   
             }
             Console.WriteLine($"Текущий месяц {MonthTitle}");
 
